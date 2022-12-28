@@ -1,0 +1,20 @@
+/* td{
+    background-color: rgb(216, 185, 223);
+} */
+.table::ng-deep * {
+    background-color: #6b86a5 !important;
+ 
+  }
+  ::ng-deep .tabledata {
+    border-radius: 10px;
+    border: 2px solid #aaddf5 !important;
+    width:85%;
+    margin-left: 80px;
+    margin-top: 30px;
+  }
+  .card{
+    height: 600%;
+    width: 60%;
+    margin-left: 200px;
+    padding: 50px;
+  }  

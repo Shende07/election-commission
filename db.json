@@ -1,0 +1,74 @@
+{
+    "dists":[{
+
+    "dist":"AMBALA",
+    "totalvoters":"204,214",
+    "male":"112318",
+    "female":" 91896",
+    "urban":"85362",
+    "rural":"118852",
+
+    "dist1":"BHIWANI",
+    "totalvoters1":"222,779",
+    "male1":"122528",
+    "female1":" 100251",
+    "urban1":"93121",
+    "rural1":"129658",
+
+    "dist2":"FARIDABAD",
+    "totalvoters2":"185,649",
+    "male2":"102012",
+    "female2":" 83637",
+    "urban2":"77529",
+    "rural2":"108120",
+
+    "dist3":"HISAR",
+    "totalvoters3":"259,909",
+    "male3":"142950",
+    "female3":" 116959",
+    "urban3":"108642",
+    "rural3":"151267",
+
+    "dist4":"KARNAL",
+    "totalvoters4":"67,084 ",
+    "male4":"91896",
+    "female4":" 75188",
+    "urban4":"69841",
+    "rural4":"97243",
+
+    "dist5":"KURUKSHETRA",
+    "totalvoters5":"278,474",
+    "male5":"153161",
+    "female5":" 125313",
+    "urban5":"116402",
+    "rural5":"162072",
+
+    "dist6":"MAHENDERGARH",
+    "totalvoters6":"148,519",
+    "male6":"81685",
+    "female6":" 66834",
+    "urban6":"62081",
+    "rural6":"86438",
+
+    "dist7":"ROHTAK",
+    "totalvoters7":"189,993",
+    "male7":"104496",
+    "female7":" 85497",
+    "urban7":"79417",
+    "rural7":"110576",
+
+    "dist8":"SIRSA",
+    "totalvoters8":"245,057",
+    "male8":"134781",
+    "female8":"110276",
+    "urban8":"102434",
+    "rural8":"142623",
+
+    "dist9":"SONIPAT",
+    "totalvoters9":"287,756",
+    "male9":"158266",
+    "female9":"129490",
+    "urban9":"120282",
+    "rural9":"167474"
+}]
+    }
